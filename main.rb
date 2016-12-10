@@ -1,5 +1,6 @@
 # coding: utf-8
 require 'dxruby'
+# これはサンプルですよ(*_*)
 
 require_relative 'player'
 require_relative 'player2'
